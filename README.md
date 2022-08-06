@@ -14,8 +14,8 @@ Kumpulan Dataset yang digunakan.
 
 ## Kumpulan Notebook yang digunakan  
 Kumpulan Dataset yang digunakan.
-1. `[Cleansing Notebook] PPKM` :
-2. `[Preprocessing Notebook] PPKM` : 
+1. `[Cleansing Notebook] PPKM` : [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SCyUwgZCjSe6znETuMqXCkzxXyT7b8ra?usp=sharing) Notebook yang digunakan untuk mengakses data awal dan cleansing data 
+2. `[Preprocessing Notebook] PPKM` : [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17y3EehapioFkXcn_71IN1QHz2tdfueO7?usp=sharing) Notebook ini digunakan dalam preprocessing data  
 3. `[Modelling Notebook] PPKM` : 
 4. `[Deskriptif Notebook] PPKM` : 
 
